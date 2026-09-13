@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Best Buy",
+    "url": "https://www.bestbuy.com/product/switch-2-the-legend-of-zelda-40th-anniversary-edition/J7GSL57HTY/sku/6691841",
+    "enabled": true
+  },
+  {
+    "name": "Nintendo",
+    "url": "https://www.nintendo.com/us/store/products/nintendo-switch-2-the-legend-of-zelda-40th-anniversary-edition-121642/",
+    "enabled": true
+  },
+  {
+    "name": "Walmart",
+    "url": "https://www.walmart.com/ip/21002656445",
+    "enabled": false
+  },
+  {
+    "name": "GameStop",
+    "url": "https://www.gamestop.com/consoles-hardware/nintendo-switch-2/products/nintendo-switch-2-the-legend-of-zelda-40th-anniversary-edition/451607.html",
+    "enabled": false
+  }
+]
